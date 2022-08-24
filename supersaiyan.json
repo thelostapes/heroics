@@ -1,0 +1,69 @@
+{
+    "name": "Lost Ape #19",
+    "description": "4,000 Lost Apes randomly generated from a pool of over 100 hand drawn traits",
+    "external_url": "http://thelostapes.com/",
+    "image": "19.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Super Saiyan"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Super Saiyan"
+        },
+        {
+            "trait_type": "Infected",
+            "value": "No"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Super Saiyan"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Super Saiyan"
+        },
+        {
+            "trait_type": "Eye Accessories",
+            "value": "Super Saiyan"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Super Saiyan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Super Saiyan"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "19.png",
+                "type": "image/gif"
+            }
+        ],
+        "creators": [
+            {
+                "address": "5wJKH6gNn8dmbTycErPzfdV4QwSKpFEwicFzqNJxajnY",
+                "share": 50
+            },
+            {
+                "address": "GUzePVVyLEWKYjTTkPZHFicS1GXBXWXzwuMafcnShbiF",
+                "share": 25
+            },
+            {
+                "address": "71uJMPhVAiVRL9orUyKf2Gx5p9XUL1adKna1J1JEVKqh",
+                "share": 25
+            }
+        ]
+    },
+    "animation_url": "",
+    "seller_fee_basis_points": 800,
+    "collection": {
+        "name": "TheLostApes",
+        "family": "TheLostApes"
+    },
+    "symbol": "TLA"
+}
