@@ -1,16 +1,16 @@
 {
-    "name": "Lost Ape #1000",
+    "name": "Lost Ape #100",
     "description": "4,000 Lost Apes randomly generated from a pool of over 100 hand drawn traits",
     "external_url": "http://thelostapes.com/",
-    "image": "https://thelostapes.com/heroics/saiyan.png",
+    "image": "https://thelostapes.com/heroics/avatar.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         },
         {
             "trait_type": "Body",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         },
         {
             "trait_type": "Infected",
@@ -18,29 +18,29 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         },
         {
             "trait_type": "Clothes",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         },
         {
             "trait_type": "Eye Accessories",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         },
         {
             "trait_type": "Headwear",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         },
         {
             "trait_type": "Mouth",
-            "value": "Super Saiyan"
+            "value": "Avatar"
         }
     ],
     "properties": {
         "files": [
             {
-                "uri": "https://thelostapes.com/heroics/saiyan.png",
+                "uri": "https://thelostapes.com/heroics/avatar.png",
                 "type": "image/png"
             }
         ],
