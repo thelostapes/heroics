@@ -2,7 +2,7 @@
     "name": "Lost Ape #19",
     "description": "4,000 Lost Apes randomly generated from a pool of over 100 hand drawn traits",
     "external_url": "http://thelostapes.com/",
-    "image": "19.png",
+    "image": "https://thelostapes.com/heroics/saiyan.gif",
     "attributes": [
         {
             "trait_type": "Background",
